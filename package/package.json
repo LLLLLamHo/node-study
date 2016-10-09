@@ -1,0 +1,30 @@
+{
+  "main" : "./lib/package.js",
+  "name" : "package",
+  "description" : "this is package",
+  "version" : "1.0.0",
+  "keywords": [],
+  "maintainers" : [
+    {
+      "name" : "LamHo",
+      "emain" : "",
+      "web" : ""
+    }
+  ],
+  "contributors" : [
+    {
+      "name" : "LamHo",
+      "emain" : "",
+      "web" : ""
+    }
+  ],
+  "bugs" : "",
+  "licenses" : [
+    {
+      "type": "",
+      "url": ""
+    }
+  ],
+  "repositories" : "",
+  "dependencies" : []
+}
